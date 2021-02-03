@@ -20,9 +20,9 @@ Create Minde.jpg
 Create Blumin.jpg 
 Create Doomsda.jpg  
 =======Leader Spore Unit Factory Unit======   
-Create Sporim.jpg
-Create Spoim.jpg
-Create Spoinlite.jpg
-Create Spomdember.jpg
-Create Spoimilite.jpg
-Create Spore King.jpg
+Create Sporim.jpg   
+Create Spoim.jpg    
+Create Spoinlite.jpg    
+Create Spomdember.jpg   
+Create Spoimilite.jpg     
+Create Spore King.jpg   
