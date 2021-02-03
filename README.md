@@ -1,6 +1,7 @@
 # README
 Create Sprite_spore_unit_factory.jpg  
-Create Titaphite_material.jpg 
+Create Titaphite_material.jpg   
+----Materials-----  
 Create Spore_jpg  
 Create Super_Alloy.jpg  
 Create Uranium.jpg  
