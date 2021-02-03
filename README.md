@@ -1,7 +1,8 @@
 # README
+----Factories---- 
 Create Sprite_spore_unit_factory.jpg  
-Create Titaphite_material.jpg   
 ----Materials-----  
+Create Titaphite.jpg   
 Create Spore_jpg  
 Create Super_Alloy.jpg  
 Create Uranium.jpg  
@@ -27,3 +28,18 @@ Create Spoinlite.jpg
 Create Spomdember.jpg   
 Create Spoimilite.jpg     
 Create Spore King.jpg   
+----- Walls----------
+Create Stone Wall.jpg   
+Create Large Stone Wall.jpg   
+Create Iron Wall.jpg    
+Create Large Iron Wall.jpg  
+Create Steel Wall.jpg   
+Create Large Steel Wall.jpg   
+Create Titaphite Wall.jpg   
+Create Large Titaphite Wall.jpg   
+Create Super Alloy Wall.jpg   
+Create Large Super Alloy Wall.jpg   
+Create Uranium Wall.jpg   
+Create Large Uranium Wall.jpg   
+Create Huge Uranium Wall.jpg    
+Create Gigantic Uranium Wal.jpg   
